@@ -1,4 +1,4 @@
-console.log("Kondo wa kondo, ima wa ima" + " <-- El entonces es entonces, el ahora es ahora");
+console.log("3. Ejercicio: Kondo wa kondo, ima wa ima" + " <-- El entonces es entonces, el ahora es ahora");
 
 /*
 Write a program to compute the sum and product (multiplication) of an array of numbers. Print out the sum and the product.

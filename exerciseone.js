@@ -1,4 +1,4 @@
-console.log("Ya estufas");
+console.log("1. Ejercicio: Ya estufas");
 
 let arr = ["This", "is", "a", "sentence."];
 function printOutString() {

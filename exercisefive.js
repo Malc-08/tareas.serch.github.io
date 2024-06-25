@@ -1,4 +1,4 @@
-console.log("La gaaarra, se mueve. Dice quien se queda y quien se va");
+console.log("5. Ejercicio: La gaaarra, se mueve. Dice quien se queda y quien se va");
 
 /*
 For each of the exercises below, assume you are starting with the following people array.

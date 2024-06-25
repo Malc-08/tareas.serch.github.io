@@ -1,4 +1,4 @@
-console.log("Embeces se puede y embeces no");
+console.log("2. Ejercicio: Embeces se puede y embeces no");
 
 /* 
 Write a function that:
